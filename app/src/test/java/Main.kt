@@ -1,4 +1,4 @@
 fun main(){
-print("Hello World!1221")
-
+print("СКИНЬ СИСЬКИ")
+var t=2
 }
